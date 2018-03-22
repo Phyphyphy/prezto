@@ -16,3 +16,7 @@ fi
 
 # Dots Aliases ----------------------------------------------------------------
 alias dots='git --git-dir=$HOME/.dots.git/ --work-tree=$HOME'
+
+# Git -------------------------------------------------------------------------
+alias gita='git add'
+alias gitc='git commit'
